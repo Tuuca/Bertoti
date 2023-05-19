@@ -24,9 +24,9 @@
 
 8. **Estética e design minimalista:** O design da interface deve ser limpo, esteticamente agradável e livre de informações desnecessárias. Elementos visuais devem ser utilizados para direcionar a atenção do usuário para as informações e ações mais importantes.
 
-9. **Ajuda e documentação:** Quando necessário, deve haver um suporte claro e acessível para ajudar os usuários a compreenderem o sistema. Isso pode incluir documentação de ajuda, tutoriais, dicas de contexto e mensagens de erro explicativas.
+9. **Reconhecimento de erros:** Quando ocorrerem erros, o sistema deve fornecer mensagens de erro claras e significativas, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro.
 
-10. **Reconhecimento de erros:** Quando ocorrerem erros, o sistema deve fornecer mensagens de erro claras e significativas, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro.
+10. **Ajuda e documentação:** Quando necessário, deve haver um suporte claro e acessível para ajudar os usuários a compreenderem o sistema. Isso pode incluir documentação de ajuda, tutoriais, dicas de contexto e mensagens de erro explicativas.
 
 <hr>
 
@@ -47,7 +47,7 @@
 | 8 | ![](../images/shein.jpg) | A página inicial do aplicativo da SHEIN é um exemplo de uma interface desagradável, o usuário após abrir o aplicativo pode se sentir "perdido" pela quantidade de textos e imagens |
 | 8 | ![](../images/terabyte.jpg) | A página inicial do site da Terabyte é um exemplo de uma interface agradável, o sistema possui uma interface limpa e organizada, com poucos textos e imagens, mas bem claro e objetivo, fácil de entender |
 | 8 | ![](../images/xbox.jpg) | A página de biblioteca de jogos do aplicativo do Xbox é um exemplo de uma interface minimalista, o sistema possui uma interface limpa e organizada, fácil de visualizar todos os jogos que o usuário possui |
-| 9 | ![](../images/python.jpg) | A documentação do Python é um exemplo de um suporte que ajuda o usuário a compreender o sistema, a documentação é bem organizada e possui uma barra de pesquisa para facilitar a busca de informações |
-| 9 | ![](../images/ubuntu.jpg) | A documentação do sistema operacional Ubuntu é um exemplo de um suporte que ajuda o usuário a compreender o sistema, a documentação é bem simples e possui tópicos bem organizados para facilitar a busca de informações, além de possuir uma barra de pesquisa |
-| 10 | ![](../images/cinema.jpg) | O sistema da Kinoplex para realizar a compra de ingressos autônomo é um exemplo de uma interface que não possui mensagens de erro claras e significativas, no exemplo da imagem, após dar um erro na compra de ingressos, o usuário não recebe uma mensagem de erro específica, apenas "51nao autorizada" |
-| 10 | ![](../images/tela_azul.jpg) | O sistema operacional Windows é um exemplo de reconhecimentos de erros, no exemplo da imagem, após ocorrer a famosa "tela azul da morte", o sistema exibe uma mensagem de erro para o usuário, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro |
+| 9 | ![](../images/cinema.jpg) | O sistema da Kinoplex para realizar a compra de ingressos autônomo é um exemplo de uma interface que não possui mensagens de erro claras e significativas, no exemplo da imagem, após dar um erro na compra de ingressos, o usuário não recebe uma mensagem de erro específica, apenas "51nao autorizada" |
+| 9 | ![](../images/tela_azul.jpg) | O sistema operacional Windows é um exemplo de reconhecimentos de erros, no exemplo da imagem, após ocorrer a famosa "tela azul da morte", o sistema exibe uma mensagem de erro para o usuário, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro |
+| 10 | ![](../images/python.jpg) | A documentação do Python é um exemplo de um suporte que ajuda o usuário a compreender o sistema, a documentação é bem organizada e possui uma barra de pesquisa para facilitar a busca de informações |
+| 10 | ![](../images/ubuntu.jpg) | A documentação do sistema operacional Ubuntu é um exemplo de um suporte que ajuda o usuário a compreender o sistema, a documentação é bem simples e possui tópicos bem organizados para facilitar a busca de informações, além de possuir uma barra de pesquisa |
