@@ -1,0 +1,3 @@
+# Como a inteligência artificial pode melhorar a qualidade de vida de deficientes visuais
+
+A rápida evolução da tecnologia, especialmente no campo da inteligência artificial, tem desempenhado um papel crucial na melhoria da qualidade de vida das pessoas. A inteligência artificial tem se mostrado uma ferramenta poderosa para auxiliar os deficientes visuais, proporcionando-lhes novas formas de interagir com o mundo ao seu redor, obter informações contextuais e promover a inclusão social.
